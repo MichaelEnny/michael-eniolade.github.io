@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Diamond Price Predictor
-description: End-to-end machine learning pipeline to predict diamond prices based on attributes such as carat, cut, color, and clarity.
+description: End-to-end ML pipeline to predict diamond prices based on carat, cut, color, and clarity.
 importance: 2
 category: AI/ML
+github: https://github.com/MichaelEnny/Diamond-Cost-Predictor
 ---
 
 Built an end-to-end machine learning pipeline to predict diamond prices based on attributes such as carat, cut, color, and clarity.

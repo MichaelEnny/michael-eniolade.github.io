@@ -4,6 +4,7 @@ title: MDUS System
 description: AI-powered document processing system using LayoutLMv3 and Donut OCR for medical and business documents.
 importance: 3
 category: AI/ML
+github: https://github.com/MichaelEnny/MDUS-system
 ---
 
 Built an AI-powered document processing system using LayoutLMv3 and Donut OCR for medical and business documents.
