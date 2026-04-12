@@ -509,7 +509,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/michael-eniolade.github.io/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/michael-eniolade.github.io/assets/pdf/ME_Software_Data_Engineer.pdf", "_blank");
         },
       },{
         id: 'social-email',
