@@ -127,8 +127,8 @@ ninja.data = [{
             window.location.href = "/michael-eniolade.github.io/blog/2025/building-ml-pipelines/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-upcoming-book-by-michael-eniolade",
+          title: 'Upcoming Book by Michael Eniolade',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/michael-eniolade.github.io/books/the_godfather/";
