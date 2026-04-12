@@ -1,7 +1,7 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
+cv_pdf: /assets/pdf/ME_Software_Data_Engineer.pdf # path to your CV PDF file
 email: michaeleniolade@gmail.com # your email address
 github_username: MichaelEnny # your GitHub user name
 linkedin_username: michael-eniolade # your LinkedIn user name
