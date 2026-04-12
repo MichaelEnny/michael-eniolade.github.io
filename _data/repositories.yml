@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - MichaelEnny
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - MichaelEnny/rag-news-generator
+  - MichaelEnny/Diamond-Cost-Predictor
+  - MichaelEnny/ MDUS-system
+  - MichaelEnny/Loan-Eligibility-Predictor
+  - MichaelEnny/health-syntra
+  - MichaelEnny/stepshield
+  - MichaelEnny/BreachVector
