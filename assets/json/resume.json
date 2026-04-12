@@ -1,182 +1,327 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Michael Eniolade",
+    "label": "Software Engineer / Data Scientist",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "michaeleniolade@gmail.com",
+    "phone": "(619) 246-8761",
+    "summary": "Software Engineer/Data Scientist with 10+ years of experience designing, building, and deploying data pipelines, machine learning models, and cloud-native solutions across healthcare, telecom, government, and education sectors.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "city": "Salem",
       "countryCode": "US",
-      "region": "California"
+      "region": "Oregon"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "michael-eniolade",
+        "url": "https://www.linkedin.com/in/michael-eniolade"
+      },
+      {
+        "network": "GitHub",
+        "username": "MichaelEnny",
+        "url": "https://github.com/MichaelEnny"
+      }
+    ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "Mercor Intelligence",
+      "position": "Senior Software Engineer",
+      "location": "San Francisco, CA",
+      "startDate": "2025-11-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Designed ambiguity-focused evaluation specifications for AI coding models.",
+        "Annotated SWE-Bench Pro V2 fail-to-pass tests by analysing requirements, implementation code, and test expectations.",
+        "Evaluated AI-generated patches without code execution by comparing failure diffs against test expectations.",
+        "Conducted structured A/B evaluations of AI coding agents on production-realistic TypeScript monorepo tasks."
+      ]
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
+      "name": "Handshake",
+      "position": "MOVE AI Fellow",
+      "location": "San Francisco, CA",
+      "startDate": "2025-10-01",
+      "endDate": "",
       "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "highlights": [
+        "Collaborate with AI researchers to evaluate and refine reasoning systems.",
+        "Develop and modify Python-based machine learning workflows using scikit-learn and PyTorch.",
+        "Engineered multi-trap benchmarks for senior backend engineering evaluation."
+      ]
     },
     {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
+      "name": "Professional Development",
+      "position": "Career Break / PhD Student",
+      "location": "Salem, OR",
+      "startDate": "2023-09-01",
+      "endDate": "2025-10-01",
       "summary": "",
-      "highlights": []
+      "highlights": [
+        "Advanced technical expertise in AWS, Azure, GCP, dbt, PySpark, Airflow, Docker, Kubernetes, and MLflow.",
+        "Pursuing Ph.D. in Information Technology at University of the Cumberlands."
+      ]
     },
     {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
+      "name": "Pyramid Systems Inc.",
+      "position": "Data Engineer Intern",
+      "location": "Fairfax, VA",
+      "startDate": "2023-06-01",
+      "endDate": "2023-08-01",
       "summary": "",
-      "highlights": []
+      "highlights": [
+        "Automated AI/ML pipelines using PySpark, Airflow, Delta Lake, and dbt, improving development efficiency by 30%.",
+        "Built and demoed an AI-powered chatbot POC integrating Python APIs, Hugging Face Transformers, LangChain, and MLflow.",
+        "Enhanced data infrastructure by implementing CI/CD workflows (GitHub Actions, Docker, Kubernetes)."
+      ]
     },
     {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
+      "name": "UnitedHealth Group (UHG)",
+      "position": "Quality Engineer",
+      "location": "Eden Prairie, MN",
+      "startDate": "2022-02-01",
+      "endDate": "2022-09-01",
       "summary": "",
-      "highlights": []
+      "highlights": [
+        "Improved claims platform reliability by resolving SLA-critical incidents with AWS CloudWatch and Jenkins, cutting downtime by 25%.",
+        "Performed SQL-based data validations, backend tuning, and automated batch workflows."
+      ]
+    },
+    {
+      "name": "Deloitte LLP",
+      "position": "Functional Analyst - Data Migration",
+      "location": "Portland, OR",
+      "startDate": "2020-06-01",
+      "endDate": "2022-02-01",
+      "summary": "",
+      "highlights": [
+        "Executed ETL pipelines and SQL-based validations for enterprise migration projects.",
+        "Developed backend test plans and automation checks, reducing post-migration defects by 20%."
+      ]
+    },
+    {
+      "name": "Dept. of Human Services, State of Oregon",
+      "position": "Senior Consultant - Data Analyst/QA",
+      "location": "Oregon",
+      "startDate": "2019-06-01",
+      "endDate": "2020-08-01",
+      "summary": "",
+      "highlights": [
+        "Built automation scripts for system shakeouts, cutting manual time by 40%.",
+        "Improved system reliability through root cause analysis and nightly monitoring."
+      ]
+    },
+    {
+      "name": "Edmin Inc.",
+      "position": "Data Analyst",
+      "location": "San Diego, CA",
+      "startDate": "2018-07-01",
+      "endDate": "2018-10-01",
+      "summary": "",
+      "highlights": [
+        "Automated Python-based analysis workflows, reducing manual effort by 25%.",
+        "Delivered Tableau dashboards that accelerated decision-making."
+      ]
+    },
+    {
+      "name": "Speedway Yearbooks",
+      "position": "Senior QA Analyst",
+      "location": "Austin, TX",
+      "startDate": "2017-02-01",
+      "endDate": "2018-07-01",
+      "summary": "",
+      "highlights": [
+        "Conducted system testing and KPI monitoring, improving deployment success rates.",
+        "Implemented real-time dashboards for performance tracking."
+      ]
+    },
+    {
+      "name": "Rhythex Consulting",
+      "position": "Revenue Assurance Analyst",
+      "location": "Lagos, Nigeria",
+      "startDate": "2016-01-01",
+      "endDate": "2017-02-01",
+      "summary": "",
+      "highlights": [
+        "Automated monitoring scripts for billing anomaly detection.",
+        "Improved data accuracy and reduced downtime across telecom pipelines."
+      ]
+    },
+    {
+      "name": "Etisalat",
+      "position": "Revenue Assurance Analyst",
+      "location": "Lagos, Nigeria",
+      "startDate": "2013-09-01",
+      "endDate": "2015-12-01",
+      "summary": "",
+      "highlights": [
+        "Supported billing system reliability with automated alerts and B2B data validation.",
+        "Reduced downtime by optimizing recurring processes."
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Braven",
+      "position": "Leadership Coach",
+      "summary": "Coached early-career professionals on self-management, problem-solving, and adaptability.",
+      "highlights": []
+    },
+    {
+      "organization": "NPower",
+      "position": "Mentor",
+      "summary": "Guided mentees in IT troubleshooting and proactive system support, fostering career readiness.",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
-    },
-    {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
+      "institution": "University of the Cumberlands",
+      "location": "Williamsburg, KY",
+      "area": "Information Technology",
+      "studyType": "Ph.D.",
+      "startDate": "2024-01-01",
+      "endDate": "",
       "score": "",
       "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "highlights": ["Focus on applying AI and machine learning to healthcare cybersecurity, anomaly detection, and IoT security."]
     },
     {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
+      "institution": "McDaniel College",
+      "location": "Westminster, MD",
+      "area": "Data Analytics",
+      "studyType": "M.S.",
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-01",
+      "score": "",
+      "courses": [],
+      "highlights": []
+    },
+    {
+      "institution": "California Miramar University",
+      "location": "San Diego, CA",
+      "area": "Computer Information Systems",
+      "studyType": "M.S.",
+      "startDate": "2017-01-01",
+      "endDate": "2018-10-01",
+      "score": "",
+      "courses": [],
+      "highlights": []
+    },
+    {
+      "institution": "LAUTECH",
+      "location": "Oyo, Nigeria",
+      "area": "Computer Science",
+      "studyType": "B.Tech.",
+      "startDate": "2006-01-01",
+      "endDate": "2010-01-01",
+      "score": "",
+      "courses": [],
+      "highlights": []
     }
   ],
+  "awards": [],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Oracle SQL",
+      "icon": "fa-solid fa-certificate"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
+      "name": "Oracle OCA",
+      "icon": "fa-solid fa-certificate"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
+      "name": "Database Specialist",
+      "icon": "fa-solid fa-certificate"
+    },
+    {
+      "name": "OCI Architect",
+      "icon": "fa-solid fa-certificate"
+    },
+    {
+      "name": "AWS Certified",
+      "icon": "fa-solid fa-certificate"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Generative AI and Large Language Models for Patient Engagement and Policy Development in U.S. Healthcare",
+      "publisher": "Data Science and Big Data Analysis",
+      "releaseDate": "2026-03-01",
+      "summary": "Research on applying generative AI and LLMs for patient engagement and policy development in U.S. healthcare."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Integrating Large Language Models into EHRs for Patient Engagement and Education",
+      "publisher": "Data Science and Big Data Analysis",
+      "releaseDate": "2026-03-01",
+      "summary": "Research on integrating LLMs into electronic health records for patient engagement and education."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Responsible AI for Healthcare Optimization: A Java-Based Framework for Resource Allocation",
+      "publisher": "Data Science and Big Data Analysis",
+      "releaseDate": "2026-03-01",
+      "summary": "A Java-based framework for responsible AI in healthcare resource allocation optimization."
+    },
+    {
+      "name": "Responsible AI for Pandemic Preparedness: A Multi-Center Collaboration on Early Detection and Resource Allocation Using Synthetic Data",
+      "publisher": "Data Science and Big Data Analysis",
+      "releaseDate": "2026-03-01",
+      "summary": "Multi-center collaboration on using responsible AI for pandemic preparedness with synthetic data."
+    },
+    {
+      "name": "StepShield: When, Not Whether to Intervene on Rogue Agents",
+      "publisher": "arXiv preprint arXiv:2601.22136",
+      "releaseDate": "2026-01-01",
+      "summary": "Research on AI agent safety - determining when to intervene on rogue agents."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Programming & Data",
+      "level": "Expert",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Python", "SQL", "R", "Scala", "Shell Scripting", "Pandas", "NumPy", "SciPy", "Java", "C++"]
+    },
+    {
+      "name": "Big Data & Pipelines",
+      "level": "Expert",
+      "icon": "fa-solid fa-database",
+      "keywords": ["Apache Spark", "PySpark", "Hadoop", "Kafka", "Apache Beam", "Flink", "Airflow", "dbt", "Delta Lake"]
+    },
+    {
+      "name": "Cloud Platforms",
+      "level": "Expert",
+      "icon": "fa-solid fa-cloud",
+      "keywords": ["AWS", "Azure", "GCP", "S3", "Glue", "Redshift", "EMR", "Lambda", "SageMaker", "Data Factory", "Synapse", "Databricks", "BigQuery", "Vertex AI", "Dataflow"]
+    },
+    {
+      "name": "Machine Learning / AI",
+      "level": "Expert",
+      "icon": "fa-solid fa-brain",
+      "keywords": ["Scikit-learn", "TensorFlow", "PyTorch", "XGBoost", "LightGBM", "Hugging Face", "LLMs", "Generative AI", "LangChain", "OpenAI API", "MLflow"]
+    },
+    {
+      "name": "Databases & Storage",
+      "level": "Expert",
+      "icon": "fa-solid fa-server",
+      "keywords": ["Snowflake", "PostgreSQL", "Oracle", "MySQL", "MSSQL", "DB2", "MongoDB", "Redis", "Data Lakehouse"]
+    },
+    {
+      "name": "Tools & Frameworks",
+      "level": "Expert",
+      "icon": "fa-solid fa-wrench",
+      "keywords": ["Docker", "Kubernetes", "Jenkins", "Git", "GitHub Actions", "Terraform", "CI/CD", "REST APIs", "GraphQL"]
+    },
+    {
+      "name": "Visualization",
+      "level": "Expert",
+      "icon": "fa-solid fa-chart-bar",
+      "keywords": ["Tableau", "Power BI", "Matplotlib", "Seaborn", "Plotly", "Excel"]
     }
   ],
   "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
     {
       "language": "English",
       "fluency": "Fluent",
@@ -185,37 +330,50 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "name": "Artificial Intelligence",
+      "icon": "fa-solid fa-robot",
+      "keywords": ["Machine Learning", "Deep Learning", "LLMs", "Generative AI", "NLP"]
     },
     {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "name": "Big Data",
+      "icon": "fa-solid fa-database",
+      "keywords": ["Data Engineering", "Data Pipelines", "Distributed Computing"]
+    },
+    {
+      "name": "Cybersecurity",
+      "icon": "fa-solid fa-shield-halved",
+      "keywords": ["Healthcare Cybersecurity", "IoT Security", "Anomaly Detection"]
     }
   ],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "name": "Health Syntra - AI Health Analytics Platform",
+      "summary": "Full-stack AI-powered health platform with LLM-based symptom analysis using Google's Gemini 2.0 Flash.",
+      "highlights": ["Next.js 15", "TypeScript", "Google Genkit AI", "Firebase", "Stripe"],
+      "startDate": "2025-01-01",
+      "endDate": ""
+    },
+    {
+      "name": "Diamond Price Predictor",
+      "summary": "End-to-end machine learning pipeline to predict diamond prices based on carat, cut, color, and clarity.",
+      "highlights": ["Python", "Scikit-learn", "MLflow", "DVC", "Airflow", "Docker", "Flask", "Azure ACR"],
+      "startDate": "2025-01-01",
+      "endDate": ""
+    },
+    {
+      "name": "MDUS (Multi-Doc Understanding) System",
+      "summary": "AI-powered document processing system using LayoutLMv3 and Donut OCR for medical and business documents.",
+      "highlights": ["FastAPI", "React", "PostgreSQL", "Redis", "Docker", "LayoutLMv3"],
+      "startDate": "2025-01-01",
+      "endDate": ""
+    },
+    {
+      "name": "AI News Generator",
+      "summary": "End-to-end AI-powered news aggregation and personalization platform.",
+      "highlights": ["Next.js", "TypeScript", "Clerk", "OpenAI API", "PostgreSQL/Neon", "Resend", "Docker"],
+      "startDate": "2025-01-01",
+      "endDate": ""
     }
   ]
 }
