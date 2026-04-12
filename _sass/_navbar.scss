@@ -183,6 +183,7 @@
   border: 0;
   background-color: inherit;
   color: var(--global-text-color);
+  white-space: nowrap;
 
   &:hover {
     color: var(--global-hover-color);
