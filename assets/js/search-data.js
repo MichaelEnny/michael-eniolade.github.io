@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
+          description: "Mentoring, coaching, and community teaching experience.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/michael-eniolade.github.io/teaching/";
@@ -484,14 +484,14 @@ ninja.data = [{
           description: "Cybersecurity threat analysis and breach detection platform for proactive security monitoring.",
           section: "Projects",handler: () => {
               window.location.href = "/michael-eniolade.github.io/projects/7_project/";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+            },},{id: "teachings-python-development-coach",
+          title: 'Python Development Coach',
+          description: "Volunteered as a Python development coach at Django Girls San Diego, guiding beginners through building their first web application using Python and Django in a supportive, hands-on workshop environment.",
           section: "Teachings",handler: () => {
               window.location.href = "/michael-eniolade.github.io/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+            },},{id: "teachings-it-career-mentorship",
+          title: 'IT Career Mentorship',
+          description: "Serving as a mentor at NPower, providing guidance, technical coaching, and career support to aspiring IT professionals in data engineering, software quality assurance, and medical claims systems.",
           section: "Teachings",handler: () => {
               window.location.href = "/michael-eniolade.github.io/teachings/introduction-to-machine-learning/";
             },},{
