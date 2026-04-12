@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A collection of my software engineering and data science projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/michael-eniolade.github.io/projects/";
@@ -449,51 +449,26 @@ ninja.data = [{
           section: "News",},{id: "news-published-multiple-research-articles-on-generative-ai-and-llms-for-healthcare-including-patient-engagement-ehr-integration-and-responsible-ai-for-resource-allocation",
           title: 'Published multiple research articles on Generative AI and LLMs for healthcare, including patient...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-health-syntra",
+          title: 'Health Syntra',
+          description: "AI-powered health analytics platform with LLM-based symptom analysis using Google&#39;s Gemini 2.0 Flash for intelligent health assessments and recommendations.",
           section: "Projects",handler: () => {
               window.location.href = "/michael-eniolade.github.io/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-diamond-price-predictor",
+          title: 'Diamond Price Predictor',
+          description: "End-to-end machine learning pipeline to predict diamond prices based on attributes such as carat, cut, color, and clarity.",
           section: "Projects",handler: () => {
               window.location.href = "/michael-eniolade.github.io/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-mdus-system",
+          title: 'MDUS System',
+          description: "AI-powered document processing system using LayoutLMv3 and Donut OCR for medical and business documents.",
           section: "Projects",handler: () => {
               window.location.href = "/michael-eniolade.github.io/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-ai-news-generator",
+          title: 'AI News Generator',
+          description: "End-to-end AI-powered news aggregation and personalization platform that generates concise digests and email-ready briefings.",
           section: "Projects",handler: () => {
               window.location.href = "/michael-eniolade.github.io/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/michael-eniolade.github.io/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/michael-eniolade.github.io/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/michael-eniolade.github.io/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/michael-eniolade.github.io/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/michael-eniolade.github.io/projects/9_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
