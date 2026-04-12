@@ -451,12 +451,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-health-syntra",
           title: 'Health Syntra',
-          description: "AI-powered health analytics platform with LLM-based symptom analysis using Google&#39;s Gemini 2.0 Flash for intelligent health assessments and recommendations.",
+          description: "AI-powered health analytics platform with LLM-based symptom analysis using Google&#39;s Gemini 2.0 Flash.",
           section: "Projects",handler: () => {
               window.location.href = "/michael-eniolade.github.io/projects/1_project/";
             },},{id: "projects-diamond-price-predictor",
           title: 'Diamond Price Predictor',
-          description: "End-to-end machine learning pipeline to predict diamond prices based on attributes such as carat, cut, color, and clarity.",
+          description: "End-to-end ML pipeline to predict diamond prices based on carat, cut, color, and clarity.",
           section: "Projects",handler: () => {
               window.location.href = "/michael-eniolade.github.io/projects/2_project/";
             },},{id: "projects-mdus-system",
@@ -466,9 +466,24 @@ ninja.data = [{
               window.location.href = "/michael-eniolade.github.io/projects/3_project/";
             },},{id: "projects-ai-news-generator",
           title: 'AI News Generator',
-          description: "End-to-end AI-powered news aggregation and personalization platform that generates concise digests and email-ready briefings.",
+          description: "End-to-end AI-powered news aggregation and personalization platform with email-ready briefings.",
           section: "Projects",handler: () => {
               window.location.href = "/michael-eniolade.github.io/projects/4_project/";
+            },},{id: "projects-loan-eligibility-predictor",
+          title: 'Loan Eligibility Predictor',
+          description: "Machine learning model to predict loan eligibility based on applicant data and financial history.",
+          section: "Projects",handler: () => {
+              window.location.href = "/michael-eniolade.github.io/projects/5_project/";
+            },},{id: "projects-stepshield",
+          title: 'StepShield',
+          description: "Research on AI agent safety — determining when, not whether, to intervene on rogue agents.",
+          section: "Projects",handler: () => {
+              window.location.href = "/michael-eniolade.github.io/projects/6_project/";
+            },},{id: "projects-breachvector",
+          title: 'BreachVector',
+          description: "Cybersecurity threat analysis and breach detection platform for proactive security monitoring.",
+          section: "Projects",handler: () => {
+              window.location.href = "/michael-eniolade.github.io/projects/7_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
