@@ -11,9 +11,6 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Software Engineer and Data Scientist with expertise in AI/ML, cloud-native solutions, and data pipelines. PhD student at University of the Cumberlands.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: software-engineer, data-scientist, machine-learning, artificial-intelligence, big-data, cybersecurity, cloud-computing # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
