@@ -7,70 +7,70 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/michael-eniolade.github.io/";
+      window.location.href = "/";
     },
   },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/michael-eniolade.github.io/blog/";
+            window.location.href = "/blog/";
           },
         },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/michael-eniolade.github.io/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-projects",
           title: "projects",
           description: "A collection of my software engineering and data science projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/michael-eniolade.github.io/projects/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
           title: "repositories",
           description: "A collection of my GitHub repositories and contributions.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/michael-eniolade.github.io/repositories/";
+            window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/michael-eniolade.github.io/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Mentoring, coaching, and community teaching experience.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/michael-eniolade.github.io/teaching/";
+            window.location.href = "/teaching/";
           },
         },{id: "nav-people",
           title: "people",
           description: "members of the lab or group",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/michael-eniolade.github.io/people/";
+            window.location.href = "/people/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/michael-eniolade.github.io/books/";
+                window.location.href = "/books/";
               },
             },{id: "dropdown-blog",
               title: "blog",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/michael-eniolade.github.io/blog/";
+                window.location.href = "/blog/";
               },
             },{id: "post-integrating-llms-into-electronic-health-records",
         
@@ -80,7 +80,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/michael-eniolade.github.io/blog/2026/llms-electronic-health-records/";
+            window.location.href = "/blog/2026/llms-electronic-health-records/";
           
         },
       },{id: "post-generative-ai-and-llms-in-u-s-healthcare-opportunities-and-challenges",
@@ -91,7 +91,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/michael-eniolade.github.io/blog/2026/generative-ai-healthcare/";
+            window.location.href = "/blog/2026/generative-ai-healthcare/";
           
         },
       },{id: "post-responsible-ai-for-healthcare-resource-allocation",
@@ -102,7 +102,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/michael-eniolade.github.io/blog/2026/responsible-ai-healthcare/";
+            window.location.href = "/blog/2026/responsible-ai-healthcare/";
           
         },
       },{id: "post-stepshield-rethinking-intervention-strategies-for-ai-agents",
@@ -113,7 +113,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/michael-eniolade.github.io/blog/2026/stepshield-rogue-agents/";
+            window.location.href = "/blog/2026/stepshield-rogue-agents/";
           
         },
       },{id: "post-building-production-ml-pipelines-with-pyspark-and-airflow",
@@ -124,14 +124,14 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/michael-eniolade.github.io/blog/2025/building-ml-pipelines/";
+            window.location.href = "/blog/2025/building-ml-pipelines/";
           
         },
       },{id: "books-upcoming-book-by-michael-eniolade",
           title: 'Upcoming Book by Michael Eniolade',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/michael-eniolade.github.io/books/the_godfather/";
+              window.location.href = "/books/the_godfather/";
             },},{id: "news-joined-mercor-intelligence-as-a-senior-software-engineer-working-on-ai-coding-model-evaluation-and-swe-bench-pro-v2-annotation",
           title: 'Joined Mercor Intelligence as a Senior Software Engineer, working on AI coding model...',
           description: "",
@@ -145,58 +145,58 @@ ninja.data = [{
           title: 'Health Syntra',
           description: "AI-powered health analytics platform with LLM-based symptom analysis using Google&#39;s Gemini 2.0 Flash.",
           section: "Projects",handler: () => {
-              window.location.href = "/michael-eniolade.github.io/projects/1_project/";
+              window.location.href = "/projects/1_project/";
             },},{id: "projects-diamond-price-predictor",
           title: 'Diamond Price Predictor',
           description: "End-to-end ML pipeline to predict diamond prices based on carat, cut, color, and clarity.",
           section: "Projects",handler: () => {
-              window.location.href = "/michael-eniolade.github.io/projects/2_project/";
+              window.location.href = "/projects/2_project/";
             },},{id: "projects-mdus-system",
           title: 'MDUS System',
           description: "AI-powered document processing system using LayoutLMv3 and Donut OCR for medical and business documents.",
           section: "Projects",handler: () => {
-              window.location.href = "/michael-eniolade.github.io/projects/3_project/";
+              window.location.href = "/projects/3_project/";
             },},{id: "projects-ai-news-generator",
           title: 'AI News Generator',
           description: "End-to-end AI-powered news aggregation and personalization platform with email-ready briefings.",
           section: "Projects",handler: () => {
-              window.location.href = "/michael-eniolade.github.io/projects/4_project/";
+              window.location.href = "/projects/4_project/";
             },},{id: "projects-loan-eligibility-predictor",
           title: 'Loan Eligibility Predictor',
           description: "Machine learning model to predict loan eligibility based on applicant data and financial history.",
           section: "Projects",handler: () => {
-              window.location.href = "/michael-eniolade.github.io/projects/5_project/";
+              window.location.href = "/projects/5_project/";
             },},{id: "projects-stepshield",
           title: 'StepShield',
           description: "Research on AI agent safety — determining when, not whether, to intervene on rogue agents.",
           section: "Projects",handler: () => {
-              window.location.href = "/michael-eniolade.github.io/projects/6_project/";
+              window.location.href = "/projects/6_project/";
             },},{id: "projects-breachvector",
           title: 'BreachVector',
           description: "Cybersecurity threat analysis and breach detection platform for proactive security monitoring.",
           section: "Projects",handler: () => {
-              window.location.href = "/michael-eniolade.github.io/projects/7_project/";
+              window.location.href = "/projects/7_project/";
             },},{id: "projects-rl-inventory-optimization",
           title: 'RL Inventory Optimization',
           description: "Deep reinforcement learning agents (PPO &amp; DQN) trained to optimize inventory management and minimize stockouts.",
           section: "Projects",handler: () => {
-              window.location.href = "/michael-eniolade.github.io/projects/8_project/";
+              window.location.href = "/projects/8_project/";
             },},{id: "teachings-python-development-coach",
           title: 'Python Development Coach',
           description: "Volunteered as a Python development coach at Django Girls San Diego, guiding beginners through building their first web application using Python and Django in a supportive, hands-on workshop environment.",
           section: "Teachings",handler: () => {
-              window.location.href = "/michael-eniolade.github.io/teachings/data-science-fundamentals/";
+              window.location.href = "/teachings/data-science-fundamentals/";
             },},{id: "teachings-it-career-mentorship",
           title: 'IT Career Mentorship',
           description: "Serving as a mentor at NPower, providing guidance, technical coaching, and career support to aspiring IT professionals in data engineering, software quality assurance, and medical claims systems.",
           section: "Teachings",handler: () => {
-              window.location.href = "/michael-eniolade.github.io/teachings/introduction-to-machine-learning/";
+              window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/michael-eniolade.github.io/assets/pdf/ME_Software_Data_Engineer.pdf", "_blank");
+          window.open("/assets/pdf/ME_Software_Data_Engineer.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -224,7 +224,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/michael-eniolade.github.io/feed.xml", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',

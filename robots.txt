@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://MichaelEnny.github.io/michael-eniolade.github.io/sitemap.xml
+Sitemap: https://MichaelEnny.github.io/sitemap.xml
