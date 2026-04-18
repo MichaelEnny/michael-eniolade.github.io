@@ -6,7 +6,7 @@ repo_description_lines_max: 2
 github_repos:
   - MichaelEnny/rag-news-generator
   - MichaelEnny/Diamond-Cost-Predictor
-  - MichaelEnny/ MDUS-system
+  - MichaelEnny/MDUS-system
   - MichaelEnny/Loan-Eligibility-Predictor
   - MichaelEnny/health-syntra
   - MichaelEnny/stepshield
