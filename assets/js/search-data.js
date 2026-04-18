@@ -176,6 +176,11 @@ ninja.data = [{
           description: "Cybersecurity threat analysis and breach detection platform for proactive security monitoring.",
           section: "Projects",handler: () => {
               window.location.href = "/michael-eniolade.github.io/projects/7_project/";
+            },},{id: "projects-rl-inventory-optimization",
+          title: 'RL Inventory Optimization',
+          description: "Deep reinforcement learning agents (PPO &amp; DQN) trained to optimize inventory management and minimize stockouts.",
+          section: "Projects",handler: () => {
+              window.location.href = "/michael-eniolade.github.io/projects/8_project/";
             },},{id: "teachings-python-development-coach",
           title: 'Python Development Coach',
           description: "Volunteered as a Python development coach at Django Girls San Diego, guiding beginners through building their first web application using Python and Django in a supportive, hands-on workshop environment.",
