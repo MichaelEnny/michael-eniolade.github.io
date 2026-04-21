@@ -294,13 +294,41 @@
       "name": "Cloud Platforms",
       "level": "Expert",
       "icon": "fa-solid fa-cloud",
-      "keywords": ["AWS", "Azure", "GCP", "S3", "Glue", "Redshift", "EMR", "Lambda", "SageMaker", "Data Factory", "Synapse", "Databricks", "BigQuery", "Vertex AI", "Dataflow"]
+      "keywords": [
+        "AWS",
+        "Azure",
+        "GCP",
+        "S3",
+        "Glue",
+        "Redshift",
+        "EMR",
+        "Lambda",
+        "SageMaker",
+        "Data Factory",
+        "Synapse",
+        "Databricks",
+        "BigQuery",
+        "Vertex AI",
+        "Dataflow"
+      ]
     },
     {
       "name": "Machine Learning / AI",
       "level": "Expert",
       "icon": "fa-solid fa-brain",
-      "keywords": ["Scikit-learn", "TensorFlow", "PyTorch", "XGBoost", "LightGBM", "Hugging Face", "LLMs", "Generative AI", "LangChain", "OpenAI API", "MLflow"]
+      "keywords": [
+        "Scikit-learn",
+        "TensorFlow",
+        "PyTorch",
+        "XGBoost",
+        "LightGBM",
+        "Hugging Face",
+        "LLMs",
+        "Generative AI",
+        "LangChain",
+        "OpenAI API",
+        "MLflow"
+      ]
     },
     {
       "name": "Databases & Storage",

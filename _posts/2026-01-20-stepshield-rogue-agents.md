@@ -8,7 +8,7 @@ categories: research
 featured: true
 ---
 
-As AI agents become increasingly autonomous, the question of safety and oversight becomes paramount. In our paper *StepShield: When, Not Whether to Intervene on Rogue Agents* (arXiv:2601.22136), we propose a novel framework for AI agent intervention that shifts the focus from binary control to temporal optimization.
+As AI agents become increasingly autonomous, the question of safety and oversight becomes paramount. In our paper _StepShield: When, Not Whether to Intervene on Rogue Agents_ (arXiv:2601.22136), we propose a novel framework for AI agent intervention that shifts the focus from binary control to temporal optimization.
 
 ## The Problem with Binary Intervention
 
@@ -20,7 +20,7 @@ Traditional approaches to AI safety often frame intervention as a binary decisio
 
 ## The StepShield Approach
 
-Our framework introduces a step-level monitoring system that continuously evaluates an agent's trajectory. Rather than asking *whether* to intervene, we ask *when* — identifying the optimal intervention point that maximizes safety while minimizing unnecessary disruption.
+Our framework introduces a step-level monitoring system that continuously evaluates an agent's trajectory. Rather than asking _whether_ to intervene, we ask _when_ — identifying the optimal intervention point that maximizes safety while minimizing unnecessary disruption.
 
 Key components of StepShield include:
 

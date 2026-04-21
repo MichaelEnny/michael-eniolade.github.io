@@ -13,6 +13,7 @@ Applied epsilon-greedy exploration annealed from 1.0 → 0.05 to balance explora
 **Hyperparameters:** lr=1e-4, buffer=50k, γ=0.99, target update=1000 steps
 
 **Key Metrics**
+
 - Cumulative reward — primary optimization objective
 - Service level — fraction of demand met (no stockout)
 - Convergence — mean episode reward vs training timesteps

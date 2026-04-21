@@ -22,11 +22,13 @@ Despite decades of digitization, EHR systems still suffer from:
 By integrating LLMs into EHR workflows, we can address these challenges through:
 
 ### Patient-Facing Applications
+
 - **Automated health summaries** in plain language after each visit
 - **Personalized health education** based on individual diagnoses and treatment plans
 - **Interactive Q&A** allowing patients to ask questions about their medical records
 
 ### Clinician-Facing Applications
+
 - **Intelligent documentation assistance** that drafts clinical notes from conversation
 - **Decision support** by surfacing relevant patient history and clinical guidelines
 - **Cross-record synthesis** that identifies patterns across a patient's complete medical history
