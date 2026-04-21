@@ -4,7 +4,7 @@ title: Orbit Wars
 description: Kaggle competition — rule-based AI agent for a real-time 2D planetary strategy game with orbital mechanics, comet interception, and multi-phase decision logic.
 importance: 9
 category: AI/ML
-github: https://github.com/MichaelEnny/orbit-wars
+github: https://github.com/MichaelEnny/orbit_wars
 ---
 
 Built a competitive AI agent for the Kaggle **Orbit Wars** competition — a real-time strategy game where 2–4 players battle to control planets orbiting a sun in a 100×100 continuous 2D space over 500 turns.
