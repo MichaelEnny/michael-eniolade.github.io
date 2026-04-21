@@ -181,6 +181,11 @@ ninja.data = [{
           description: "Deep reinforcement learning agents (PPO &amp; DQN) trained to optimize inventory management and minimize stockouts.",
           section: "Projects",handler: () => {
               window.location.href = "/michael-eniolade.github.io/projects/8_project/";
+            },},{id: "projects-orbit-wars",
+          title: 'Orbit Wars',
+          description: "Kaggle competition — rule-based AI agent for a real-time 2D planetary strategy game with orbital mechanics, comet interception, and multi-phase decision logic.",
+          section: "Projects",handler: () => {
+              window.location.href = "/michael-eniolade.github.io/projects/9_project/";
             },},{id: "teachings-python-development-coach",
           title: 'Python Development Coach',
           description: "Volunteered as a Python development coach at Django Girls San Diego, guiding beginners through building their first web application using Python and Django in a supportive, hands-on workshop environment.",
