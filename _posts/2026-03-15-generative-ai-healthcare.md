@@ -8,7 +8,7 @@ categories: research
 featured: true
 ---
 
-The integration of generative AI and large language models (LLMs) into healthcare is rapidly transforming how we approach patient engagement, clinical decision support, and health policy development. In my recent research published in *Data Science and Big Data Analysis*, I examined the potential of these technologies to reshape the U.S. healthcare landscape.
+The integration of generative AI and large language models (LLMs) into healthcare is rapidly transforming how we approach patient engagement, clinical decision support, and health policy development. In my recent research published in _Data Science and Big Data Analysis_, I examined the potential of these technologies to reshape the U.S. healthcare landscape.
 
 ## The Promise of LLMs in Healthcare
 

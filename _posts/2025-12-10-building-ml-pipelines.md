@@ -23,14 +23,14 @@ A robust ML pipeline typically consists of several stages:
 
 After working with numerous tools, here is the stack I have found most effective:
 
-| Stage | Tool | Why |
-|-------|------|-----|
-| Orchestration | Apache Airflow | DAG-based scheduling, rich UI, extensive integrations |
-| Processing | PySpark | Distributed computing for large-scale data |
-| Storage | Delta Lake | ACID transactions, schema enforcement, time travel |
-| Transformation | dbt | SQL-based transformations with version control |
-| Experiment Tracking | MLflow | Model versioning, metrics logging, artifact storage |
-| Containerization | Docker + K8s | Reproducible environments, scalable deployment |
+| Stage               | Tool           | Why                                                   |
+| ------------------- | -------------- | ----------------------------------------------------- |
+| Orchestration       | Apache Airflow | DAG-based scheduling, rich UI, extensive integrations |
+| Processing          | PySpark        | Distributed computing for large-scale data            |
+| Storage             | Delta Lake     | ACID transactions, schema enforcement, time travel    |
+| Transformation      | dbt            | SQL-based transformations with version control        |
+| Experiment Tracking | MLflow         | Model versioning, metrics logging, artifact storage   |
+| Containerization    | Docker + K8s   | Reproducible environments, scalable deployment        |
 
 ## Key Lessons
 
