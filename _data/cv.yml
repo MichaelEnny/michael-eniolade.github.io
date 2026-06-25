@@ -50,6 +50,17 @@ cv:
         end_date: 2010
 
     Experience:
+      - company: LinkedIn
+        position: Senior Software Engineer (AI Specialist/Trainer)
+        location: Sunnyvale, CA
+        start_date: 2026-04-01
+        end_date: Present
+        highlights:
+          - "Evaluated AI coding model outputs across VS Code Insiders, Cursor, and GitHub Copilot telemetry against developer actions, repository context, and expected ground truth."
+          - "Reviewed next-edit suggestion tasks across Python, Java, and TypeScript repositories, assessing model performance on renames, imports, bug fixes, new methods, smart rewrites, and multi-file edits."
+          - "Identified model failure modes including missed cross-file propagation, hallucinated APIs, duplicate method declarations, unsafe partial fixes, and locally valid changes that broke runtime behavior."
+          - "Produced evidence-backed reviewer feedback to improve annotation quality, benchmark reliability, scoring consistency, and downstream training signals for AI coding models."
+
       - company: Mercor Intelligence
         position: Senior Software Engineer
         location: San Francisco, CA
