@@ -11,6 +11,8 @@ cv:
       username: MichaelEnny
     - network: LinkedIn
       username: michael-eniolade
+    - network: ORCID
+      username: 0009-0002-0859-3050
 
   address:
     city: Salem
@@ -60,6 +62,12 @@ cv:
           - "Reviewed next-edit suggestion tasks across Python, Java, and TypeScript repositories, assessing model performance on renames, imports, bug fixes, new methods, smart rewrites, and multi-file edits."
           - "Identified model failure modes including missed cross-file propagation, hallucinated APIs, duplicate method declarations, unsafe partial fixes, and locally valid changes that broke runtime behavior."
           - "Produced evidence-backed reviewer feedback to improve annotation quality, benchmark reliability, scoring consistency, and downstream training signals for AI coding models."
+
+      - company: University of the Cumberlands
+        position: Researcher, Information Technology (AI and Cybersecurity)
+        location: Williamsburg, KY
+        start_date: 2024-01-01
+        end_date: Present
 
       - company: Mercor Intelligence
         position: Senior Software Engineer
@@ -172,6 +180,12 @@ cv:
       - company: NPower
         position: Mentor
         summary: Guided mentees in IT troubleshooting and proactive system support, fostering career readiness.
+
+    Academic Service:
+      - label: Journal Reviewer
+        details: PLOS ONE (2025); SN Computer Science, Springer Nature (2026)
+      - label: Workshop Reviewer
+        details: 1st Workshop on Interpreting Agent Behavior (IAB) at NeurIPS 2026
 
     Skills:
       - name: Programming & Data
