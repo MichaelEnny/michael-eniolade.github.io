@@ -6,7 +6,7 @@ subtitle: <a href='https://www.ucumberlands.edu/'>University of the Cumberlands<
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic_use.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Salem, OR</p>
